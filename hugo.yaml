@@ -1,6 +1,6 @@
-baseurl: "https://quinza.es/" # please update this to your actual URL
+baseurl: "https://quinza.es/"
 languageCode: "en-us"
-title: "Aitor Quinza"
+title: "Your SRE expert"
 theme: "hugo-xmin"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
@@ -19,6 +19,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    renderHooks:
+      link:
+        useEmbedded: auto
     extensions:
       passthrough:
         enable: true

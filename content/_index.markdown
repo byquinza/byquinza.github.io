@@ -1,3 +1,6 @@
+---
+title: 'Home page of Aitor Quinza'
+---
 # *Hello, I'm Aitor.*
 
 I'm a **DevOps Engineer** at **SAP**, based in the vibrant city of **Barcelona**. 
@@ -12,4 +15,4 @@ When I'm offline, I enjoy the thrill of **snowboarding**, getting lost in a good
 
 ### Let's Connect
 
-While I'm not actively seeking new opportunities at the moment, I'm always open to connecting with fellow professionals and enthusiasts. Feel free to reach out. [Linkedin](http://www.linkedin.com/in/aitorquinza)
+While I'm not actively seeking new opportunities at the moment, I'm always open to connecting with fellow professionals and enthusiasts. Feel free to reach out on Linkedin: <https://www.linkedin.com/in/aitorquinza>
